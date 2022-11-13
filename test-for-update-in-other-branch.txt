@@ -1,0 +1,2 @@
+when I call git pull at main,
+would other-branch be updated too?
